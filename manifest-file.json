@@ -1,0 +1,22 @@
+{
+  "name": "Faculty Application Tracker",
+  "short_name": "Faculty Tracker",
+  "description": "Track faculty members and applications for graduate school",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#A31F34",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
